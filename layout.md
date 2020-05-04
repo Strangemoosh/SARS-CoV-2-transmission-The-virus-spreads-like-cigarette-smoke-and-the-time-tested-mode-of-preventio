@@ -10,4 +10,3 @@ textbfReferences__be.html
 figures/Figure 1
 figures/Figure 2
 figures/Figure 3
-37v7n0940h8.html
