@@ -7,7 +7,6 @@ emphiii_Infectious_d.html
 textbfAcknowledgemen.html
 textbfContributorshi.html
 textbfReferences__be.html
-figures/Figure 1
 emphFigure_1_Drying_.html
 emphFigure_2_Measure.html
 emphFigure_3_Plot_of.html
