@@ -10,6 +10,5 @@ textbfReferences__be.html
 figures/Figure 1
 emphFigure_1_Drying_.html
 figures/Figure 2
-emphFigure_2_Measure.html
 figures/Figure 3
 emphFigure_3_Plot_of.html
