@@ -10,7 +10,6 @@ figures/Figure 2
 emphiii_Infectious_d.html
 p3a6jc2ts2o.html
 st8si66o8v.html
-figures/Figure 3
 textbfAcknowledgemen.html
 textbfContributorshi.html
 textbfReferences__be.html
